@@ -24,6 +24,7 @@ body {
 #randomNumberBox {
     background:green;
     color:purple;
+    font-size: 16px;
 }
 
 #winLossBox {
@@ -39,4 +40,11 @@ body {
 #totalSoreBox2 {
     background:aqua;
     color:white;
+}
+
+.buttonImg {
+    width:70px;
+    height: 70px;
+    float:left;
+    margin-right:5px;
 }
